@@ -13,6 +13,7 @@ This script allows you to start and stop an EC2 instance using the AWS SDK (boto
 
 1. Run the script using the following command to start the instance: `python3 start_ec2.py`
 2. Run the script using the following command to stop the instance: `python3 stop_ec2.py`
+3. Run the script using the following command to update the instance Security group rule with your IP address: `python3 update_sg_ssh_ipaddrs.py`
 
 ## Output
 
